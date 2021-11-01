@@ -1,0 +1,51 @@
+[ {
+  "nome" : "ps5",
+  "preco" : 3000,
+  "qtd" : 5,
+  "peso" : 10.0
+}, {
+  "nome" : "pinga",
+  "preco" : 15,
+  "qtd" : 20,
+  "peso" : 2.0
+}, {
+  "nome" : "Sorvete",
+  "preco" : 23,
+  "qtd" : 23,
+  "peso" : 12.0
+}, {
+  "nome" : "asd",
+  "preco" : 123,
+  "qtd" : 213,
+  "peso" : 123.0
+}, {
+  "nome" : "asd",
+  "preco" : 123,
+  "qtd" : 231,
+  "peso" : 123.0
+}, {
+  "nome" : "asd",
+  "preco" : 1233,
+  "qtd" : 31,
+  "peso" : 312.0
+}, {
+  "nome" : "sad",
+  "preco" : 12,
+  "qtd" : 123,
+  "peso" : 123.0
+}, {
+  "nome" : "asa",
+  "preco" : 32,
+  "qtd" : 12,
+  "peso" : 32.0
+}, {
+  "nome" : "qwe",
+  "preco" : 23,
+  "qtd" : 213,
+  "peso" : 233.0
+}, {
+  "nome" : "sa",
+  "preco" : 32,
+  "qtd" : 12,
+  "peso" : 32.0
+} ]
